@@ -1,0 +1,6 @@
+[submodule "themes/Daily"]
+	path = themes/Daily
+	url = https://github.com/GallenHu/hexo-theme-Daily.git
+[submodule "themes/alpha-dust"]
+	path = themes/alpha-dust
+	url = https://github.com/klugjo/hexo-theme-alpha-dust
